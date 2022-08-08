@@ -5,6 +5,7 @@
 -  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)    Meu email é andre.santos29@escola.pr.gov.br 
 
 
+
  
 - 👀 Estou interessado em aprender novas linguagens de programação ...
 
