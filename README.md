@@ -9,11 +9,12 @@
  
 - 👀 Estou interessado em aprender novas linguagens de programação ...
 
--🌱 Atualmente estou estudando   Scratch e JavaScript ...
+-🌱 Atualmente estou estudando   Scratch ; JavaScript ; HTML; ...
 
 - ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 
 - ![JAvaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 
 
